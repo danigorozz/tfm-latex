@@ -1,0 +1,43 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {starchapter}{Resumen}{\es@scroman {iii}}{Doc-Start}%
+\contentsline {starchapter}{Abstract}{\es@scroman {v}}{Doc-Start}%
+\contentsline {starchapter}{Agradecimientos}{\es@scroman {ix}}{chapter*.1}%
+\contentsline {starchapter}{Acrónimos}{\es@scroman {xi}}{chapter*.2}%
+\contentsline {part}{I\hspace {1em}Introducción}{1}{part.1}%
+\contentsline {xpart}{Introducción}{3}{part.1}%
+\contentsline {chapter}{\numberline {1}Introducción y visión general}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Objetivo}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Estado del arte}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Metodología y directrices seguidas}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Estructura del documento}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Ámbito de aplicación}{5}{section.1.5}%
+\contentsline {part}{II\hspace {1em}Desarrollo del proyecto}{7}{part.2}%
+\contentsline {xpart}{Desarrollo del proyecto}{9}{part.2}%
+\contentsline {chapter}{\numberline {2}Manual básico de \LaTeX }{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Estructura y formato del proyecto}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Apartados de la plantilla}{10}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Referencias Cruzadas}{13}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Figuras}{14}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Tablas}{16}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Código fuente}{18}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Símbolos matemáticos y físicos}{19}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Referencias bibliográficas}{21}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Formato de los Apéndices}{22}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Glosario de términos}{23}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Sobre los correctores ortográficos}{23}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Decálogo del usuario novel de \LaTeX }{23}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Otras recomendaciones}{24}{section.2.13}%
+\contentsline {chapter}{\numberline {3}Título del capítulo}{27}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Título de la sección}{27}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Título de la sección}{27}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Título del capítulo}{29}{chapter.4}%
+\contentsline {part}{III\hspace {1em}Parte tercera.}{31}{part.3}%
+\contentsline {xpart}{Parte tercera.}{33}{part.3}%
+\contentsline {starchapter}{Conclusiones y líneas futuras}{33}{chapter*.12}%
+\contentsline {part}{IV\hspace {1em}Apéndices}{35}{part.4}%
+\contentsline {xpart}{Apéndices}{37}{part.4}%
+\contentsline {chapter}{\numberline {A}Manual de uso}{37}{appendix.Alph1}%
+\contentsline {section}{\numberline {A.1}Primera sección}{37}{section.Alph1.1}%
+\contentsline {chapter}{Bibliografía}{39}{appendix*.13}%
+\contentsline {chapter}{Glosario}{41}{section*.14}%
+\contentsfinish 
